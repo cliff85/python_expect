@@ -7,7 +7,6 @@ import logging
 import pexpect
 import sys
 
-#Script writen by cfrasure to install qb agent on multiple servers
 
 global PROMPT
 global SUDOPROMPT
